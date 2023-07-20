@@ -1,3 +1,4 @@
+// eslint-disable-next-line react/prop-types
 const ToDoList = ({ tasks, handleDeleteTask }) => {
     return (
         <ul className="mt-4">
